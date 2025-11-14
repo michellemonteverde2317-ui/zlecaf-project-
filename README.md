@@ -1,13 +1,14 @@
- # ZLECAf Trade Calculator / Calculateur Commercial ZLECAf
+#remove # Z
+Closed/ Calculateur Commercial ZLECAf
 
-![API Status](https://img.shields.io/badge/API-Online-success)
-![Version](https://img.shields.io/badge/version-2.0.0-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-Connected-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
+![REMOVE/API Remove](https://img.shields.io/badge remove/API-Online-success)
+remove![Version](https://img.shields.io/badge/version-2.0.0-blue)
+remove![MongoDB](https://img.shields.io/badge/MongoDB-Connected-green)
+remove![License](https://img.shields.io/badge/license-MIT-orange)
 
-A comprehensive tariff calculator and trade information system for the African Continental Free Trade Area (AfCFTA/ZLECAf).
+remove A comprehensive tariff calculator and trade information system for the African Continental Free Trade Area (AfCFTA/ZLECAf).
 
-## 🚀 Features
+## 🚀 stop/Features
 
 - **Tariff Calculations**: Calculate tariffs between 54 African countries
 - **Rules of Origin**: Access ZLECAf rules of origin by HS code
